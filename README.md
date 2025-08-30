@@ -4,15 +4,15 @@ This project leverages **FIDO2/WebAuthn, biometrics, OTP, and magic links** to p
 
 ---
 
-##📌 About  
-This project demonstrates a **passwordless authentication system** designed to:  
+<h2>📌 About  </h2>
+This project demonstrates a **passwordless authentication system** designed to: 
 - Improve login security by eliminating password-based risks  
 - Provide a smooth user experience with modern authentication methods  
 - Ensure compliance with **NIST, GDPR, ISO 27001, and OWASP** security standards  
 
 ---
 
-✨ Features  
+<h2>✨ Features  </h2>
 ✅ Passwordless login (Biometrics, OTP, Magic Links, Security Keys)  
 ✅ Secure onboarding and account recovery  
 ✅ Multi-device support (Desktop, Mobile, IoT)  
@@ -23,7 +23,7 @@ This project demonstrates a **passwordless authentication system** designed to:
 
 ---
 
-⚙️ Tech Stack  
+<h2> ⚙️ Tech Stack  </h2>
 | Layer          | Tech Used                                      |  
 |----------------|-----------------------------------------------|  
 | Frontend       | JavaScript (WebAuthn integration)             |  
@@ -35,7 +35,7 @@ This project demonstrates a **passwordless authentication system** designed to:
 
 ---
 
-🧠 How It Works  
+<h2> 🧠 How It Works  </h2>
 1. User enters email/username  
 2. System prompts authentication via **biometrics, OTP, or security key**  
 3. A signed cryptographic response is sent to the server  
@@ -44,7 +44,7 @@ This project demonstrates a **passwordless authentication system** designed to:
 
 ---
 
-🧩 How to Run (Developer Setup)  
+<h2> 🧩 How to Run (Developer Setup)  </h2>
 1. Clone the repo:  
    ```bash
    git clone https://github.com/preethi1277/passwordless-authentication.git
