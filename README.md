@@ -23,18 +23,18 @@ This project demonstrates a **passwordless authentication system** designed to: 
 
 ---
 
-<h2> ⚙️ Tech Stack  </h2>
-<table border="1">
-   <tr>
-| <td> </td>Layer </td>         <td></td> Tech Used           </td>                            </tr> <br>
+## ⚙️ Tech Stack  
 
-| Frontend       | JavaScript (WebAuthn integration)             |  <br>
-| Backend        | Python, Go                                    |  <br>
-| Authentication | FIDO2, WebAuthn, OAuth 2.0, OpenID Connect    |  <br>
-| Security Tools | YubiKeys, Titan Keys, Face ID, Touch ID       |  <br>
-| Cloud Services | AWS Cognito, Firebase Auth, Azure AD B2C      |  <br>
-| Encryption     | AES-256 (data at rest), TLS 1.3 (in transit)  |  <br>
-</table>
+| Layer          | Tech Used                                      |  
+|----------------|-----------------------------------------------|  
+| Frontend       | JavaScript (WebAuthn integration)             |  
+| Backend        | Python, Go                                    |  
+| Authentication | FIDO2, WebAuthn, OAuth 2.0, OpenID Connect    |  
+| Security Tools | YubiKeys, Titan Keys, Face ID, Touch ID       |  
+| Cloud Services | AWS Cognito, Firebase Auth, Azure AD B2C      |  
+| Encryption     | AES-256 (data at rest), TLS 1.3 (in transit)  |  
+
+
 ---
 
 <h2> 🧠 How It Works  </h2>
