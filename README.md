@@ -24,7 +24,9 @@ This project demonstrates a **passwordless authentication system** designed to: 
 ---
 
 <h2> ⚙️ Tech Stack  </h2>
-| Layer          | Tech Used                                     |  <br>
+<table>
+   <tr>
+| <td> </td>Layer </td>         <td></td> Tech Used           </td>                            </tr> 
 |----------------|-----------------------------------------------|  <br>
 | Frontend       | JavaScript (WebAuthn integration)             |  <br>
 | Backend        | Python, Go                                    |  <br>
@@ -32,7 +34,7 @@ This project demonstrates a **passwordless authentication system** designed to: 
 | Security Tools | YubiKeys, Titan Keys, Face ID, Touch ID       |  <br>
 | Cloud Services | AWS Cognito, Firebase Auth, Azure AD B2C      |  <br>
 | Encryption     | AES-256 (data at rest), TLS 1.3 (in transit)  |  <br>
-
+</table>
 ---
 
 <h2> 🧠 How It Works  </h2>
