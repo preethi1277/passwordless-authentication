@@ -5,7 +5,7 @@ This project leverages **FIDO2/WebAuthn, biometrics, OTP, and magic links** to p
 ---
 
 <h2>📌 About  </h2>
-This project demonstrates a **passwordless authentication system** designed to: 
+This project demonstrates a **passwordless authentication system** designed to: <br>
 - Improve login security by eliminating password-based risks  <br>
 - Provide a smooth user experience with modern authentication methods  <br>
 - Ensure compliance with **NIST, GDPR, ISO 27001, and OWASP** security standards  <br>
