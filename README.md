@@ -36,11 +36,11 @@ This project demonstrates a **passwordless authentication system** designed to:
 ---
 
 <h2> 🧠 How It Works  </h2>
-1. User enters email/username  
-2. System prompts authentication via **biometrics, OTP, or security key**  
-3. A signed cryptographic response is sent to the server  
-4. Server verifies the signature and grants access  
-5. Security logs & monitoring track suspicious activity  
+1. User enters email/username  <br>
+2. System prompts authentication via **biometrics, OTP, or security key**  <br>
+3. A signed cryptographic response is sent to the server  <br>
+4. Server verifies the signature and grants access  <br>
+5. Security logs & monitoring track suspicious activity  <br>
 
 ---
 
