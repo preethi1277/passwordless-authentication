@@ -24,10 +24,10 @@ This project demonstrates a **passwordless authentication system** designed to: 
 ---
 
 <h2> ⚙️ Tech Stack  </h2>
-<table>
+<table border="1">
    <tr>
-| <td> </td>Layer </td>         <td></td> Tech Used           </td>                            </tr> 
-|----------------|-----------------------------------------------|  <br>
+| <td> </td>Layer </td>         <td></td> Tech Used           </td>                            </tr> <br>
+
 | Frontend       | JavaScript (WebAuthn integration)             |  <br>
 | Backend        | Python, Go                                    |  <br>
 | Authentication | FIDO2, WebAuthn, OAuth 2.0, OpenID Connect    |  <br>
