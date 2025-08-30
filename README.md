@@ -1,10 +1,10 @@
-🔐 Passwordless Authentication - Secure Login Solution  
+##🔐 Passwordless Authentication - Secure Login Solution  
 A secure and seamless authentication system that removes the need for traditional passwords.  
 This project leverages **FIDO2/WebAuthn, biometrics, OTP, and magic links** to provide strong protection against phishing, credential stuffing, and brute-force attacks.  
 
 ---
 
-📌 About  
+##📌 About  
 This project demonstrates a **passwordless authentication system** designed to:  
 - Improve login security by eliminating password-based risks  
 - Provide a smooth user experience with modern authentication methods  
