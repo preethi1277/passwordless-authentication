@@ -45,7 +45,7 @@ This project demonstrates a **passwordless authentication system** designed to: 
 ---
 
 <h2> 🧩 How to Run (Developer Setup)  </h2>
-1. Clone the repo:  
-   ```bash
-   git clone https://github.com/preethi1277/passwordless-authentication.git
+1. Clone the repo:  <br>
+   ```bash <br>
+   git clone https://github.com/preethi1277/passwordless-authentication.git <br>
    cd passwordless-authentication
